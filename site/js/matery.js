@@ -110,10 +110,11 @@ $(function () {
             showThumbByDefault: false  //2018.08.14
         });
 
-        /*网站加载逻辑问题 网站加载逻辑问题：图片最后加载 洪卫 shw2018 modify 修改时间：2019.08.14*/
-        // $(document).find('img[data-original]').each(function () {
-        //     $(this).parent().attr("href", $(this).attr("data-original"));
-        // });
+        // 使fancybox与lazyload兼容
+        //$(document).find('img[data-original]').each(function(){
+        //    $(this).parent().attr("href", $(this).attr("data-original"));
+        //});                                 //获取img[data-original]的值，然后找到img上级的a标签，将值赋给其href属性
+  }
 
         // progress bar init
         const progressElement = window.document.querySelector('.progress-bar');
