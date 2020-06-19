@@ -3,26 +3,26 @@ title: 存储
 layout: "store"
 ---
 
-[bandzip](https://tokisakigalaxy.xyz/store/bandzip.zip)
+[bandzip](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/bandzip.zip)
 
-[Everything](https://tokisakigalaxy.xyz/store/Everything-1.4.1.935.x64-Setup.exe)
+[Everything](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/Everything-1.4.1.935.x64-Setup.exe)
 
-[flux-setup](https://tokisakigalaxy.xyz/store/flux-setup.exe)
+[flux-setup](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/flux-setup.exe)
 
-[IDM 6.36.3R](https://tokisakigalaxy.xyz/store/IDM6.36.3-R.zip)
+[IDM 6.36.3R](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/IDM6.36.3-R.zip)
 
-[ImageGlass](https://tokisakigalaxy.xyz/store/ImageGlass.zip)
+[ImageGlass](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/ImageGlass.zip)
 
-[MadobeFamily2015Winter](https://tokisakigalaxy.xyz/store/MadobeFamily2015Winter.zip)
+[MadobeFamily2015Winter](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/MadobeFamily2015Winter.zip)
 
-[MicrosoftEdgeSetupBeta](https://tokisakigalaxy.xyz/store/MicrosoftEdgeSetupBeta.exe)
+[MicrosoftEdgeSetupBeta](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/MicrosoftEdgeSetupBeta.exe)
 
-[Microsoft Mathematics-x64.exe](https://tokisakigalaxy.xyz/store/Microsoft-Mathematics-x64.exe)
+[Microsoft Mathematics-x64.exe](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/Microsoft-Mathematics-x64.exe)
 
-[npp.7.8.1.Installer.x64](https://tokisakigalaxy.xyz/store/npp.7.8.1.Installer.x64.exe)
+[npp.7.8.1.Installer.x64](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/npp.7.8.1.Installer.x64.exe)
 
-[PotPlayerSetup64](https://tokisakigalaxy.xyz/store/PotPlayerSetup64.exe)
+[PotPlayerSetup64](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/PotPlayerSetup64.exe)
 
-[processlasso](https://tokisakigalaxy.xyz/store/processlasso.zip)
+[processlasso](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/processlasso.zip)
 
-[ThrottleStop_8.70.6](https://tokisakigalaxy.xyz/store/ThrottleStop_8.70.6.zip)
+[ThrottleStop_8.70.6](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/ThrottleStop_8.70.6.zip)
