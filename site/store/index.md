@@ -26,3 +26,5 @@ layout: "store"
 [processlasso](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/processlasso.zip)
 
 [ThrottleStop_8.70.6](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/ThrottleStop_8.70.6.zip)
+
+[speedyfox](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/store/speedyfox.zip)
