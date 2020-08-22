@@ -1,0 +1,8 @@
+User-agent: *
+#Disallow: /tag/*
+#Disallow: /categories/*
+#Disallow: /av/*
+#Disallow: /galleries/*
+Disallow: /404.html
+Sitemap: http://tokisakigalaxy.xyz/sitemap.xml
+Sitemap: http://tokisakigalaxy.xyz/baidusitemap.xml
