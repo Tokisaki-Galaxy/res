@@ -56,18 +56,22 @@
         transform: translate(0, 0.5px) rotate(1.5deg);
     }
 }
-
+/*
 @font-face{
     font-family: 'cjkFonts';
     src: url('../fonts/cjkFonts_allseto_v1.11.ttf');
 }
-
-/** 表示全局使用，如果不想全局使用不要添加该段 */
+*/
+/* 表示全局使用，如果不想全局使用不要添加该段*/
+/*
 body{
     font-family: 'cjkFonts';
 }
+*/
 
 /* 可以局部使用，建议添加 */
+/*
 .diyFont{
     font-family: 'cjkFonts';
 }
+*/
