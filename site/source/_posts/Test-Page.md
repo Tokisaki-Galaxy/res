@@ -14,6 +14,7 @@ categories:
 password:
 comments: false
 noindex: true
+sitemap: false
 reprintPolicy: cc_by
 ---
 
