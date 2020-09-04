@@ -20,6 +20,13 @@ categories:
 password:
 ---
 
+# Calc-for-Average
+用于计算多个数字总和，平均值，方差的MFC程序
+
+# 使用方法
+把数据输入到框里，允许小数输入，使用空格分开
+
+# 源码及下载
 项目[Github地址](https://github.com/Tokisaki-Galaxy/Calc-for-Average)。
 核心代码如下
 
