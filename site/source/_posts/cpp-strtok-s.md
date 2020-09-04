@@ -15,10 +15,13 @@ summary: strtok_s()函数用法
 tags:
  - C++
 categories:
+ - 编程
 password:
 ---
 
-`strtok()`似乎有一些安全性的问题，被`strtok_s()`代替，新加入了一个参数，使用示例如下
+> 当您需要性能优化时，请考虑 C printf和sprintf，它们快速且易于使用。 但是，它们不能扩展或免受漏洞的攻击。 （存在安全版本，但它们会受到轻微的性能损失。 有关详细信息，请参阅printf_s、_printf_s_l、wprintf_s、_wprintf_s_l和sprintf_s、_sprintf_s_l、swprintf_s、_swprintf_s_l。
+by MSDN，某些旧函数，包括`strtok()`似乎有一些安全性的问题，被`strtok_s()`代替，新函数新加入了一个参数，感觉新函数比以前那个更好用。使用示例如下
+
 
 ```c++
 #include <iostream>
