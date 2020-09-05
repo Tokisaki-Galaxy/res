@@ -1,5 +1,5 @@
 ---
-title: PROJECT-EE-M
+title: 高中数学
 date: 2020-05-02 21:33:54
 author: Tokisaki Galaxy
 img: 
@@ -9,7 +9,7 @@ cover: false
 toc: true
 comments: enable
 mathjax: false
-summary: PROJECT-EE-M
+summary: 高中 数学
 tags: 
 categories: 
 password: 
@@ -19,18 +19,21 @@ password:
 
 # ...
 
-计划施工完成日期：8月初
+计划施工完成日期：2022年中
 
-# 一轮
+# 部分初中
 
 ## 数与式
 
-![数与式-数](https://tokisakigalaxy.xyz/blog/project-mee-m/数与式-数.svg)
-![数与式-式](https://tokisakigalaxy.xyz/blog/project-mee-m/数与式-式.svg)
+![数与式-数](https://tokisakigalaxy.xyz/blog/project-sh-math/数与式-数.svg)
+![数与式-式](https://tokisakigalaxy.xyz/blog/project-sh-math/数与式-式.svg)
 
 ## 方程与不等式
 
-# 二轮
+# 高中一年级
+
+## 1.1 集合
+
 
 # 计算器
 
