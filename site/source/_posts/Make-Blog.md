@@ -12,8 +12,10 @@ coverImg:
 password:
 summary: 使用zeit托管博客，并使用cloudflare进行访问加速
 tags:
-  - Hexo
   - Github
+  - Hexo
+  - zeit
+  - vercel
 categories:
   - 博客
 ---

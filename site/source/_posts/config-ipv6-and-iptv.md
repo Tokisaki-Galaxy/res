@@ -13,7 +13,10 @@ img:
 coverImg:
 summary: 中国移动宽带配置ipv6与IPTV
 tags:
+ - 中国移动
+ - IPTV
 categories:
+ - 杂项
 password:
 ---
 

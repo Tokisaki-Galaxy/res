@@ -13,7 +13,10 @@ img:
 coverImg:
 summary:
 tags:
+ - C++
+ - mysql
 categories:
+ - 编程
 password:
 ---
 
