@@ -11,7 +11,7 @@ sitemap: true
 date: 2020-08-26 18:55:10
 img:
 coverImg:
-summary:
+summary: C++简易平均数及方差计算器
 tags:
  - C++
  - 小型项目

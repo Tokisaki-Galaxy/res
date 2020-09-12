@@ -12,7 +12,10 @@ coverImg:
 summary: ThrottleStop教程
 tags:
  - 电脑
-categories: 
+ - CPU超频
+ - CPU降频
+categories:
+ - 电脑硬件
 password: 
 alias:
  - blog/2020-02-09-throttlestop/index.html
