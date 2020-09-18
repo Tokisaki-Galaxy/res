@@ -29,13 +29,13 @@ password:
 ## 初始化
 
 int是指容器的类型，abc是容器的名称。
-```c++
+```cpp
 vector<int>abc;
 ```
 
 ## 常用内置函数
 
-```c++
+```cpp
 //b为向量，将b的0-2个元素赋值给向量a
 a.assign(b.begin(),b.begin()+3);
 //a含有4个值为2的元素
@@ -80,7 +80,7 @@ a==b;
 
 ## 常用算法
 
-```c++
+```cpp
  #include<algorithm>
  //对a中的从a.begin()（包括它）到a.end()（不包括它）的元素进行从小到大排列
  sort(a.begin(),a.end());

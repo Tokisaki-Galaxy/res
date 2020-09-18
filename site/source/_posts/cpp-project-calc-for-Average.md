@@ -30,7 +30,7 @@ password:
 项目[Github地址](https://github.com/Tokisaki-Galaxy/Calc-for-Average)。
 核心代码如下
 
-```c++
+```cpp
 UpdateData(TRUE);
 string stringdata = CT2A(m_input.GetBuffer());
 char* strdata=(char*)stringdata.c_str();

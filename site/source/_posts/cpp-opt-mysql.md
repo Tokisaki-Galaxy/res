@@ -40,14 +40,14 @@ lib目录中加上`mysql5\lib\opt`
 
 ## 需要的头文件
 首先需要包含以下头文件
-```c++
+```cpp
 #include <winsock2.h>
 #include <mysql.h>
 #pragma comment(lib,"libmysql.lib") //如果你在IDE中设置了加入libmysql.lib,就可以不需要这一行，但是你加上去也没事
 ```
 
 ## 链接数据库
-```c++
+```cpp
 MYSQL mysqlconn;
 mysql_init(&mysqlconn);
 char * host="127.0.0.1";        //服务器地址
@@ -63,7 +63,7 @@ mysql_query(&mysqlconn,"set names gbk");    //链接完之后设置编码为GBK
 
 ## 读取数据库数据
 
-```c++
+```cpp
 void getdata()
 {
     MYSQL_RES *     mysql_res;
@@ -106,7 +106,7 @@ void getdata()
 ```
 
 ## 修改数据库数据
-```c++
+```cpp
 string sql;
 sqla = "update item set qty=" + tmp + " where itemid='" + itemid + "'";   			//修改
 sqlb = "delete from user where userid='" + userid + "'";							//删除
