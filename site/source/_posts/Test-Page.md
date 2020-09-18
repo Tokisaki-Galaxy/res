@@ -2,7 +2,7 @@
 title: 测试页面
 date: 2010-08-27 11:41:03
 author: Tokisaki Galaxy
-img: 
+img: https://src.onlinedown.net/d/file/p/2019-02-21/0d7b1ece1e9daf93d082fadc8fdbcbdf.jpg
 coverImg:
 top: false
 cover: false
