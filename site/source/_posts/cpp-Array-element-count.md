@@ -16,7 +16,7 @@ categories:
 password: 
 ---
 
-```
+```c++
 int i_max(int a[]) {
 	int tmp=a[0];
 	for (int i = 0; i < sizeof(a) / sizeof(a[0]); i++)
@@ -30,7 +30,7 @@ int i_max(int a[]) {
 
 关键代码
 
-```
+```c++
 sizeof(a) / sizeof(a[0])
 ```
 
@@ -41,7 +41,7 @@ sizeof(a) / sizeof(a[0])
 > 解决方法:
 
 使用结构(struct)传递
-```
+```c++
 struct a{
 int b[5]}
 xxx(struct a)
