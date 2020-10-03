@@ -1,5 +1,5 @@
 ---
-title: edgeless
+title: Edgeless
 author: Tokisaki Galaxy
 top: false
 cover: false
@@ -11,7 +11,7 @@ sitemap: true
 date: 2020-10-03 19:51:35
 img:
 coverImg:
-summary:
+summary: Edgeless
 tags: 
  - Edgeless
  - 电脑
