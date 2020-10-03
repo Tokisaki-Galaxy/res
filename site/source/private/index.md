@@ -37,3 +37,9 @@ sitemap: false
 第三种是指将现有的两种产品结合，例如将手机与相机结合，制造出可以拍照的手机，令生活更加便利
 
 FLAG 2020-05-20 至少两个月
+
+
+
+[链接: https://pan.baidu.com/s/1z21GJM4TSBaofetIIUt3eA 提取码: 4040](https://pan.baidu.com/s/1z21GJM4TSBaofetIIUt3eA)
+
+[链接: https://pan.baidu.com/s/1q_GmbgWCBUFenuYVgir5BQ 提取码: 4040](https://pan.baidu.com/s/1q_GmbgWCBUFenuYVgir5BQ)

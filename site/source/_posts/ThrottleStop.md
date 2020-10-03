@@ -6,7 +6,7 @@ cover: false
 toc: true
 mathjax: false
 date: 2020-02-09 21:26:58
-comments: enable
+comments: true
 img: 
 coverImg: 
 summary: ThrottleStop教程

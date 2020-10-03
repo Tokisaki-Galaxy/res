@@ -4,7 +4,7 @@ author: Tokisaki Galaxy
 top: false
 cover: false
 toc: true
-comments: enable
+comments: true
 mathjax: false
 noindex: false
 sitemap: true

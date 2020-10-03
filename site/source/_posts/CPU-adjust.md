@@ -6,7 +6,7 @@ cover: false
 toc: true
 mathjax: false
 date: 2020-02-09
-comments: enable
+comments: true
 img: 
 coverImg: 
 summary: CPU升(降)压教程

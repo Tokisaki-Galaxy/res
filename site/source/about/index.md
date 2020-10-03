@@ -4,11 +4,13 @@ type: "about"
 layout: "about"
 ---
 
-THEME <a *href*="https://github.com/blinkfox/hexo-theme-matery">MATERY</a
-
-# 教育经历
 
 
-# 获得荣誉
-
-# 联系方式
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/artitalk"></script>
+<div id="artitalk_main"></div>
+<script>
+new Artitalk({
+    appId: '8AtXU8W69pXHWEHIDuuuMLy3-MdYXbMMI',
+    appKey: 'betFnrfutjK2Aa3oKIBvJJnv',
+})
+</script>

@@ -6,7 +6,7 @@ cover: false
 toc: true
 mathjax: false
 date: 2020-04-22 18:31:54
-comments: enable
+comments: true
 img:
 coverImg:
 password:

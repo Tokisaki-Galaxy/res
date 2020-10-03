@@ -7,7 +7,7 @@ coverImg:
 top: false
 cover: false
 toc: true
-comments: enable
+comments: true
 mathjax: false
 summary: 高中 数学
 tags: 
