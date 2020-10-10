@@ -33,30 +33,45 @@ categories:
 [HEXO中文文档](https://hexo.io/zh-cn/docs/index.html)上都有
 
 
-
 ### 2.新建存储库
 
 **如果你是把整个HEXO文件夹上传！！一定要设成私有！！**
 
 **如果你用deploy部署，那随便你设不设私有**
 
- 去Github上新建一个存储库，名字随便，记得**设置私有**。反正也就只有你和ZEIT上的机器人看得到。
+ 去Github上新建一个存储库，名字随便，记得**设置私有**。保证只有你和ZEIT上的机器人看得到。
 
-至于为什么把整个HEXO上传，原因是如果你换一台电脑不是还可以接写博客吗。。
+至于为什么把整个HEXO上传，原因是如果你换一台电脑不是还可以接写博客吗。
 
+### 3.初始化HEXO
 
+```bash
+hexo init
+```
 
-### 3.找一个模板直接clone下来
+关联Github
+```bash
+cd hexo
+echo "# Blog" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Tokisaki-Galaxy/blog.git   #这里的路径换成你自己的存储库地址
+git push -u origin main
+```
 
-嘛其实`hexo init`也不是不行，只是懒。
+### 3.下载主题，设置submodule
 
-推荐[hexo-blog-fly](https://github.com/shw2018/hexo-blog-fly.git)（当然你用别的也行），直接clone下来，打开名字叫`.git`的文件夹，用随便什么文本编辑器打开`.config`文件，找到里面的`[remote "origin"]`那一行，把里面的github上存储库的位置改成你自己在第一步新建的存储库位置。
+直接把模板clone下来之后后继更新非常麻烦，所以使用submodule。
+
+推荐模板[hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)（当然你用别的也行）。
+
+先在网页上fork到自己的存储库里，然后在根目录中执行`git submodule add https://github.com/blinkfox/hexo-theme-matery/ themes\hexo-theme-matery`，作为子模块clone到themes目录中的hexo-theme-matery。
 
 接着试着用github desktop或者git进行push，如果没问题就往下看。
 
-**当然有些教程会说设置deploy，这两种方法都可行，区别只是在zeit上的部署有一点点不同。但是我更喜欢这种方法。**
-
-
+**当然有些教程会说设置deploy，直接上传源目录和上传public目录效果完全一致，区别只是在zeit上的部署有一点点不同。但是我更喜欢这种方法。（毕竟可以直接在github上写博客嘛）**
 
 ### 4.本地预览
 
@@ -135,6 +150,18 @@ categories:
   **无论如何，请一定确认时候一定要确认代理状态为黄色（已代理）**
 
   **无论如何，请一定确认时候一定要确认代理状态为黄色（已代理）**
+
+  #### 6.添加404页面
+  在根目录下面新建now.json，里面如下。
+```json
+{
+  "version": 2,
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 404, "dest": "/404.html" }
+  ]
+}
+```
 
   ##### 可能会有的一些坑
 
