@@ -37,7 +37,7 @@ password:
 [RINEX星历数据下载地址](ftp://cddis.gsfc.nasa.gov/pub/gps/data/daily/2020/brdc/)
 **地址中的2020可以换成你当前年份**
 拉到最下面，下载brdc2780.20n.Z，然后解压就是了。（注意要是以n结尾的星历）
-![RINEX](hackrf/RINEX.png)
+![RINEX](https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/source/_posts/hackrf/RINEX.png)
 
 # 生成GPS仿真数据
 `./gps-sdr-sim -e brdc2780.20n -l 0,0,100 -b 8·`
