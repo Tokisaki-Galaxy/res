@@ -1,0 +1,11 @@
+mklink /j css D:\Tokisaki_Galaxy\Documents\GitHub\HEXO\themes\hexo-theme-matery\source\css
+
+mklink /j css D:\Tokisaki_Galaxy\Documents\GitHub\HEXO\themes\hexo-theme-matery\source\css
+
+mklink /j fonts D:\Tokisaki_Galaxy\Documents\GitHub\HEXO\themes\hexo-theme-matery\source\fonts
+
+mklink /j js D:\Tokisaki_Galaxy\Documents\GitHub\HEXO\themes\hexo-theme-matery\source\js
+
+mklink /j libs D:\Tokisaki_Galaxy\Documents\GitHub\HEXO\themes\hexo-theme-matery\source\libs
+
+mklink /j medias D:\Tokisaki_Galaxy\Documents\GitHub\HEXO\themes\hexo-theme-matery\source\medias
