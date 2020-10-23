@@ -18,7 +18,7 @@ sitemap: false
 reprintPolicy: cc_by
 ---
 
-        <style>
+<style>
         .black_overlay{
             display: none;
             position: absolute;
@@ -45,12 +45,12 @@ reprintPolicy: cc_by
             z-index:1002;
             overflow: auto;
         }
-    </style>
-    
-        <br>
-        <a href = "javascript:void(0)"onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">请点这里</a><br>
-        <div id="light" class="white_content"><br>　　　　这是一个层窗口示例程序.<a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">点这里关闭本窗口<br>　　　　　　</a><br>　　　　　</div>
-        <div id="fade" class="black_overlay"></div>
+</style>
+
+<br>
+<a href = "javascript:void(0)"onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">请点这里</a><br>
+<div id="light" class="white_content"><br>　　　　这是一个层窗口示例程序.<a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">点这里关闭本窗口<br>　　　　　　</a><br>　　　　　</div>
+<div id="fade" class="black_overlay"></div>
 
 aaaasdasdfdsa
 
