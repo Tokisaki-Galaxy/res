@@ -18,9 +18,39 @@ sitemap: false
 reprintPolicy: cc_by
 ---
 
-<script>
-alert("你好，我是一个警告框！");
-</script>
+        <style>
+        .black_overlay{
+            display: none;
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            z-index:1001;
+            -moz-opacity: 0.8;
+            opacity:.80;
+            filter: alpha(opacity=88);
+        }
+        .white_content {
+            display: none;
+            position: absolute;
+            top: 25%;
+            left: 25%;
+            width: 55%;
+            height: 55%;
+            padding: 20px;
+            border: 10px solid orange;
+            background-color: white;
+            z-index:1002;
+            overflow: auto;
+        }
+    </style>
+    
+        <br>
+        <a href = "javascript:void(0)"onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">请点这里</a><br>
+        <div id="light" class="white_content"><br>　　　　这是一个层窗口示例程序.<a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">点这里关闭本窗口<br>　　　　　　</a><br>　　　　　</div>
+        <div id="fade" class="black_overlay"></div>
 
 aaaasdasdfdsa
 
