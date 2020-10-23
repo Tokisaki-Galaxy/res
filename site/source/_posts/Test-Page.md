@@ -18,6 +18,14 @@ sitemap: false
 reprintPolicy: cc_by
 ---
 
+<script>
+alert("你好，我是一个警告框！");
+</script>
+
+aaaasdasdfdsa
+
+https://evil-binary.github.io/
+https://evil-binary.github.io/
 https://evil-binary.github.io/
 
 https://tokisakigalaxy.xyz/
@@ -40,3 +48,4 @@ https://tokisakigalaxy.xyz/
 
 
 {% img [主界面] https://s2.ax1x.com/2020/02/09/1h5Vqs.png %}
+
