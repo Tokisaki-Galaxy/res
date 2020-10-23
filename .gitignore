@@ -2,4 +2,4 @@
 Thumbs.db
 .vscode/
 node_modules/
-site/source/*.md
+*.md
