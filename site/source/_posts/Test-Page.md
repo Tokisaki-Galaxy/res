@@ -46,9 +46,7 @@ reprintPolicy: cc_by
             overflow: auto;
         }
 </style>
-
-<br>
-<a href = "javascript:void(0)"onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">请点这里</a><br>
+<p>示例弹出层：<br>　　　　<a href = "javascript:void(0)"onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">请点这里</a><br>　　　　 </p>
 <div id="light" class="white_content"><br>　　　　这是一个层窗口示例程序.<a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">点这里关闭本窗口<br>　　　　　　</a><br>　　　　　</div>
 <div id="fade" class="black_overlay"></div>
 
