@@ -4,5 +4,5 @@ User-agent: *
 #Disallow: /av/*
 #Disallow: /galleries/*
 Disallow: /404.html
-Sitemap: http://tokisakigalaxy.xyz/sitemap.xml
-Sitemap: http://tokisakigalaxy.xyz/baidusitemap.xml
+Sitemap: https://tokisaki.top/sitemap.xml
+Sitemap: https://tokisaki.top/baidusitemap.xml
