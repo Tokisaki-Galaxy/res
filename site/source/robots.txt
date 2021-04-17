@@ -4,5 +4,11 @@ User-agent: *
 #Disallow: /av/*
 #Disallow: /galleries/*
 Disallow: /404.html
+Disallow: github.tokisaki.top/*
+Disallow: pixiv-img.tokisaki.top/*
+Disallow: reimu.tokisaki.top/*
+Disallow: storage.tokisaki.top/*
+Disallow: sukebei.tokisaki.top/*
+Disallow: wiki.tokisaki.top/*
 Sitemap: https://tokisaki.top/sitemap.xml
 Sitemap: https://tokisaki.top/baidusitemap.xml
