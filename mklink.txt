@@ -1,11 +1,9 @@
-mklink /j css C:\USERS\tokisaki\GitHub\HEXO\themes\hexo-theme-matery\source\css
+mklink /j post C:\USERS\tokisaki\GitHub\HEXO\source\_posts
+
+
 
 mklink /j css C:\USERS\tokisaki\GitHub\HEXO\themes\hexo-theme-matery\source\css
-
 mklink /j fonts C:\USERS\tokisaki\GitHub\HEXO\themes\hexo-theme-matery\source\fonts
-
 mklink /j js C:\USERS\tokisaki\GitHub\HEXO\themes\hexo-theme-matery\source\js
-
 mklink /j libs C:\USERS\tokisaki\GitHub\HEXO\themes\hexo-theme-matery\source\libs
-
 mklink /j medias C:\USERS\tokisaki\GitHub\HEXO\themes\hexo-theme-matery\source\medias
